@@ -1,5 +1,3 @@
 # rsi-example
 
-## A High-Speed Data Ingestion Solution in Java Using MQTT, AMQP, and STOMP
-
-### To be published at OracleDevs on Medium after [OCW23](https://www.oracle.com/cloudworld)
+## [A High-Speed Data Ingestion Solution in Java Using MQTT, AMQP, and STOMP](https://juarezjunior.medium.com/a-high-speed-data-ingestion-microservice-in-java-using-mqtt-amqp-and-stomp-135724223ae1)
