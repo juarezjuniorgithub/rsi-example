@@ -8,8 +8,8 @@
     <packaging>jar</packaging>
 
     <name>RSI Example</name>
-    <description>Design High-Speed Data Ingestion Services Using MQTT, AMQP, and STOMP</description>
-    <url>To be published at OracleDevs on Medium after OCW23</url>
+    <description>A High-Speed Data Ingestion Microservice in Java Using MQTT, AMQP, and STOMP</description>
+    <url>https://juarezjunior.medium.com/a-high-speed-data-ingestion-microservice-in-java-using-mqtt-amqp-and-stomp-135724223ae1</url>
 
     <properties>
         <maven.compiler.target>21</maven.compiler.target>
